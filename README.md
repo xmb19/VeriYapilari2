@@ -20,3 +20,5 @@ sağdaki sayı büyük olmalı (1. ve 2. olarak ayırılan dizilerde sağdaki sa
 2. SORU
 
 Big O notation : O(nlogn)
+
+[Patika.dev](https://app.patika.dev)
